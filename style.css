@@ -22,6 +22,11 @@ a.text-body:hover {
   font-weight: 600;
   padding: 0 10px;
 }
+
+/*button common code*/	
+button.rightButton ,button.leftButton,button.viewCourse,button.buyNow,button.getDetails,button.bookNow,button.allTeachers,button.allBlogs,button.subscribe,button.sendMessage {
+    outline: none;
+}
 .registerbtn {
   border: none;
   background-color: black;
