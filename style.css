@@ -24,7 +24,7 @@ a.text-body:hover {
 }
 
 /*button common code*/	
-button.rightButton ,button.leftButton,button.viewCourse,button.buyNow,button.getDetails,button.bookNow,button.allTeachers,button.allBlogs,button.subscribe,button.sendMessage {
+button.rightButton ,button.leftButton,button.viewCourse,button.buyNow,button.getDetails,button.bookNow,button.allTeachers,button.allBlogs,button.subscribe,button.sendMessage,button.registerbtn,button.loginbtn {
     outline: none;
 }
 .registerbtn {
